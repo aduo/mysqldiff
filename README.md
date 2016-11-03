@@ -10,7 +10,9 @@
 
     $dest_config = ['host' => '127.0.0.1', 'user' => 'root', 'pwd' => '123456', 'db' => 'test_dest'];//修改过得数据库
 
-###在命令行执行 `$ php mysqldiff.php`
+###在命令行执行 
+
+`$ php mysqldiff.php`
 
 结果如下：
       
